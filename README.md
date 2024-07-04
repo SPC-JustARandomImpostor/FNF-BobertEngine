@@ -3,7 +3,7 @@ Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), 
 
 ## Installation:
 
-Refer to [the Build Instructions](./BUILDING.md)
+If you want to build the game, [Follow this tutorial.](https://gamebanana.com/tuts/16701)
 
 ## Customization:
 
@@ -15,7 +15,12 @@ to start you off, disabling Videos should be simple, simply Delete the line `"VI
 
 same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file
 
-## Credits:
+## --Bobert Engine Credits--
+
+* Bobert8853 - Main Programmer
+
+## --Psych Engine Credits--
+
 * Shadow Mario - Programmer
 * Riveren - Artist
 
