@@ -5,7 +5,7 @@ THIS ENGINE IS IN HEAVY WIP SO DONT EXPECT ANYTHING SPECIAL
 
 ## Installation:
 
-You must have [Haxe 4.2.5](https://haxe.org/download/version/4.2.5/) if you are building this from source
+You must have [Haxe 4.2.5](https://haxe.org/download/version/4.2.5/) if you are building this from source.n\
 If you are having problems with compiling, [Read this.](https://gamebanana.com/tuts/13798)
 
 ## Customization:
