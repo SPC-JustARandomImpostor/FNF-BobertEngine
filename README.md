@@ -2,6 +2,7 @@
 
 THIS ENGINE IS IN HEAVY WIP SO DONT EXPECT ANYTHING SPECIAL
 
+If you would like to participate in the Bobert Engine Project, DM me on discord. (thebrandnewbobert)
 
 ## Installation:
 
